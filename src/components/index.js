@@ -14,7 +14,7 @@ import Pie from "./Charts/Pie";
 import SparkLine from "./Charts/SparkLine";
 import Stacked from "./Charts/Stacked";
 
-export default {
+export {
   Button,
   Chart,
   Chat,
