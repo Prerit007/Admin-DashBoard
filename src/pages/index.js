@@ -1,5 +1,5 @@
 import Calendar from "./Calendar";
-import ColorPicker from "./ColorPiimport ColorPicker";
+import ColorPicker from "./ColorPicker";
 import Customers from "./Customers";
 import Ecommerce from "./Ecommerce";
 import Editor from "./Editor";
@@ -15,7 +15,7 @@ import Pie from "./Charts/Pie";
 import Pyramid from "./Charts/Area";
 import Stacked from "./Charts/Stacked";
 
-export default {
+export {
   Calendar,
   ColorPicker,
   Customers,
