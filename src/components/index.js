@@ -1,5 +1,5 @@
 import Button from "./Button";
-import Chart from "./Chart";
+import Cart from "./Cart";
 import Chat from "./Chat";
 import ChartsHeader from "./ChartsHeader";
 import Footer from "./Footer";
@@ -16,7 +16,7 @@ import Stacked from "./Charts/Stacked";
 
 export {
   Button,
-  Chart,
+  Cart,
   Chat,
   ChartsHeader,
   Footer,
