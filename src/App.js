@@ -62,6 +62,7 @@ const App = () => {
           </div>
 
           <div>
+            <ThemeSettings />
             <Routes>
               {/* DashBoard-Sidebar Components */}
               <Route path="/" element={<Ecommerce />} />
